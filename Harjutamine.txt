@@ -1,3 +1,5 @@
 GitHub on tarkvara, mida tavaliselt kasutatakse versioonihalduseks. 
 On abiks kui rohkem kui kaks inimest peab töötama ühe projektiga.
 Ma hakkan GitHub'is hoidma oma programmeerimise ainete koode.
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. 
+GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.
