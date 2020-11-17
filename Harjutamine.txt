@@ -1,0 +1,2 @@
+GitHub on tarkvara, mida tavaliselt kasutatakse versioonihalduseks. 
+On abiks kui rohkem kui kaks inimest peab töötama ühe projektiga.
